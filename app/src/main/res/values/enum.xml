@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="car_images">
+        <item>@drawable/truck</item>
+        <item>@drawable/sedan</item>
+        <item>@drawable/van</item>
+        <item>@drawable/coupe</item>
+        <item>@drawable/wagon</item>
+        <item>@drawable/convertible</item>
+        <item>@drawable/crossover</item>
+    </integer-array>
+</resources>
